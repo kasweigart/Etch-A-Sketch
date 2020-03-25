@@ -20,6 +20,12 @@ h1 {
   flex: 1;
 }
 
+.fill {
+    display: flex;
+    flex: 1;
+    background-color: black;
+}
+
 button {
 }
 
@@ -28,6 +34,5 @@ body {
   background-size: cover;
   display: flex;
   align-items: center;
-  justify-content: center;
   flex-direction: column;
 }
